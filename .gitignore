@@ -1,1 +1,4 @@
-.venv
+*.pkl
+*.zip
+.venv/
+__pycache__/
